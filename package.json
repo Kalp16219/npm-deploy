@@ -1,6 +1,6 @@
 {
   "name": "npm-deploy.git",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kalp16219/npm-deploy.git"
@@ -9,7 +9,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "pub": "npm version patch --no-git-tag-version && npm publish",
+    "pub": "npm version patch --force && npm publish",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
