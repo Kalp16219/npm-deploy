@@ -1,6 +1,6 @@
 {
   "name": "gitcode",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "repository": {
           "type": "npm",
           "url": "http://10.10.10.4:8081/repository/npm-test-new/"
