@@ -1,6 +1,10 @@
 {
   "name": "gitcode",
   "version": "0.0.12",
+  "repository": {
+          "type": "npm",
+          "url": "http://10.10.10.4:8081/repository/npm-test-new/"
+   },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
