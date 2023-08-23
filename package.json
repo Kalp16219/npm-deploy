@@ -1,6 +1,6 @@
 {
   "name": "npm-deploy.git",
-  "version": "0.0.45",
+  "version": "0.0.51",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kalp16219/npm-deploy.git"
